@@ -1,18 +1,6 @@
-# Python CRASH Course by JimShapedCoding - [Click Here to Start!](https://www.youtube.com/channel/UCU8d7rcShA7MGuDyYH1aWGg)
+# Python Cheatsheet - [Click Here to Start!](https://www.youtube.com/channel/UCU8d7rcShA7MGuDyYH1aWGg)
 
 ### This Repository includes the code and MORE exercises on each section of the entire course
-
-After this 5-hour course, you'll have a lot of new information on Programming with Python.
-
-While you watch the video, feel free to ask questions in the comments section, share your code on different exercises, and give a feedback about the tutorial at all.
-
-What this course includes ?
- - At least 1 Exercise on each section
- - 10 on-demand exercises with solutions
- - 40 lectures
- - Best Practices of how to write efficient code
- - Deep explanations about each topic
- - Full documentation on the entire tutorial
 
 What you will learn?
 
@@ -57,11 +45,4 @@ What you could continue learning after completing this course?
  - Develop advanced Console applications with argparse
  - This list probably has thousands of options, let`s stop here
 
-
-Social Media:
- - [Discord](https://discord.com/invite/aMgcPD9)
- - [Youtube](https://www.youtube.com/channel/UCU8d7rcShA7MGuDyYH1aWGg)
- - [Twitter](https://twitter.com/jimshapedcoding)
- - [Instagram](https://www.instagram.com/jimshapedcoding/)
- - [My Official Website](http://jimshapedcoding.com)
 
